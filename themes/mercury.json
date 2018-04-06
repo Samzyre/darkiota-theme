@@ -1,0 +1,15 @@
+{
+	"type": "dark",
+	"colors": {
+		"foreground": "#A0A0A0",
+		"background": "#171819"
+	},
+	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "#A0A0A0FF",
+				"background": "#171819FF"
+			}
+		}
+	]
+}

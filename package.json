@@ -1,0 +1,24 @@
+{
+	"name": "darkiota",
+	"displayName": "Darkiota themes",
+	"description": "Darkiota themes for VS Code. (Mercury)",
+	"version": "1.0.0",
+	"publisher": "Samzlx",
+	"license": "MIT",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darkiota Mercury",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mercury.json"
+			}
+		]
+	}
+}
