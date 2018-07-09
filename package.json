@@ -1,13 +1,13 @@
 {
 	"name": "darkiota",
 	"displayName": "Darkiota themes",
-	"description": "Darkiota themes for VS Code. (Mercury)",
+	"description": "Darkiota themes for VS Code. (Charon, Triton)",
 	"version": "1.0.0",
 	"publisher": "Samzlx",
 	"license": "MIT",
 	"icon": "icon.png",
 	"engines": {
-		"vscode": "^1.15.0"
+		"vscode": "^1.25.0"
 	},
 	"categories": [
 		"Themes"
@@ -15,9 +15,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Darkiota Mercury",
+				"label": "Darkiota Charon",
 				"uiTheme": "vs-dark",
-				"path": "./themes/mercury.json"
+				"path": "./themes/charon.json"
+			},
+			{
+				"label": "Darkiota Triton",
+				"uiTheme": "vs-dark",
+				"path": "./themes/triton.json"
 			}
 		]
 	}
