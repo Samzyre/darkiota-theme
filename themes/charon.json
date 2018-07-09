@@ -1,4 +1,5 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
 		"foreground": "#a0a0a0",
@@ -64,7 +65,7 @@
 		"tab.inactiveForeground": "#808080",
 		"tab.unfocusedActiveForeground": "#c0c0c0",
 		"tab.unfocusedInactiveForeground": "#808080",
-		"editorGroup.background": "#80808080",
+		"editorGroup.emptyBackground": "#80808080",
 		"editorGroupHeader.tabsBackground": "#202020",
 		"editorGroupHeader.tabsBorder": "#00000080",
 		"editorGroupHeader.noTabsBackground": "#20202080",
@@ -85,12 +86,6 @@
 		"sideBarSectionHeader.foreground": "#f0f0f0"
 	},
 	"tokenColors": [
-		{
-			"settings": {
-				"foreground": "#a0a0a0ff",
-				"background": "#1d1e1fff"
-			}
-		},
 		{
 			"scope": "token.info-token",
 			"settings": {
