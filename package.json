@@ -1,7 +1,7 @@
 {
 	"name": "darkiota",
 	"displayName": "Darkiota themes",
-	"description": "Darkiota themes for VS Code. (Charon, Triton)",
+	"description": "Darkiota themes package for VS Code. (Charon, Triton)",
 	"version": "1.0.0",
 	"publisher": "Samzlx",
 	"license": "MIT",
