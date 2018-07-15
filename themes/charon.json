@@ -572,7 +572,7 @@
 			"name": "Markdown Titles",
 			"scope": "entity.name.section.markdown",
 			"settings": {
-				"foreground": "#A8BF"
+				"foreground": "#EEEF"
 			}
 		},
 		{
@@ -590,30 +590,23 @@
 			}
 		},
 		{
-			"name": "Markdown bold stars",
+			"name": "Markdown bold stars and link title braces",
 			"scope": [
+				"punctuation.definition.markdown",
 				"punctuation.definition.bold.markdown",
-				"punctuation.definition.italic.markdown"
-			],
-			"settings": {
-				"foreground": "#E81F"
-			}
-		},
-		{
-			"name": "Markdown link title braces",
-			"scope": [
+				"punctuation.definition.italic.markdown",
 				"punctuation.definition.string.begin.markdown",
 				"punctuation.definition.string.end.markdown"
 			],
 			"settings": {
-				"foreground": "#E81F"
+				"foreground": "#DA1F"
 			}
 		},
 		{
 			"name": "Markdown link braces",
 			"scope": "punctuation.definition.metadata.markdown",
 			"settings": {
-				"foreground": "#E81F"
+				"foreground": "#C54F"
 			}
 		},
 		{
@@ -624,7 +617,7 @@
 				"meta.image.inline.markdown"
 			],
 			"settings": {
-				"foreground": "#E81F",
+				"foreground": "#69CF",
 				"fontStyle": ""
 			}
 		},
@@ -635,7 +628,7 @@
 				"markup.italic.markdown"
 			],
 			"settings": {
-				"foreground": "#E81F"
+				"foreground": "#A8BF"
 			}
 		},
 		{
