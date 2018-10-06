@@ -4,7 +4,6 @@
 	"description": "Darkiota is a color theme for vscode.",
 	"version": "1.0.0",
 	"publisher": "Samzyre",
-	"license": "MIT",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.27.0"

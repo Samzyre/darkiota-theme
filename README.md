@@ -9,9 +9,9 @@ Right now the focus has been on Rust, but might add syntax tunes for other langu
 
 
 ### **Notes**
-- [Change Log](CHANGELOG.md)
 - It's just one theme right now, maybe I'll add some variants to this at some point.. :)
 - The icon theme I use is [material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Change Log](CHANGELOG.md)
 
 
 ## ***Pics or didn't happen!***

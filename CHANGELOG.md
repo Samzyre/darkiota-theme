@@ -1,3 +1,3 @@
 # Change Log
 ## [1.0.0]
-- Initial development
+- Initial development and release
