@@ -351,7 +351,7 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#B8AF"
+				"foreground": "#C8AF"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A8BF"
+				"foreground": "#A8CF"
 			}
 		},
 		{
@@ -889,7 +889,8 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#789F"
+				// "foreground": "#789F"
+				"foreground": "#A97F"
 			}
 		},
 		{
