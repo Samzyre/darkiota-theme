@@ -8,6 +8,9 @@
 	"engines": {
 		"vscode": "^1.27.0"
 	},
+	"repository": {
+		"url": "https://github.com/Samzyre/darkiota-theme"
+	},
 	"categories": [
 		"Themes"
 	],
