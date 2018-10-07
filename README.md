@@ -16,4 +16,8 @@ Right now the focus has been on Rust, but might add syntax tunes for other langu
 
 ## ***Pics or didn't happen!***
 
-TODO...
+![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/screen1.png)
+
+![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/screen2.png)
+
+![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/screen3.png)
