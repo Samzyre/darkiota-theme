@@ -123,7 +123,7 @@
 		"extensionButton.prominentBackground": "#444444",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentHoverBackground": "#ee881188",
-		"focusBorder": "#11111188",
+		"focusBorder": "#88888811",
 		"foreground": "#aaaaaa",
 		"gitDecoration.addedResourceForeground": "#99cc66",
 		"gitDecoration.conflictingResourceForeground": "#9966cc",
@@ -138,11 +138,11 @@
 		"input.placeholderForeground": "#cccccc88",
 		"inputOption.activeBorder": "#ee881188",
 		"inputValidation.errorBackground": "#111111",
-		"inputValidation.errorBorder": "#cc221188",
+		"inputValidation.errorBorder": "#ee444488",
 		"inputValidation.infoBackground": "#111111",
-		"inputValidation.infoBorder": "#1188cc88",
+		"inputValidation.infoBorder": "#77889988",
 		"inputValidation.warningBackground": "#111111",
-		"inputValidation.warningBorder": "#ee881188",
+		"inputValidation.warningBorder": "#bbaa4488",
 		"list.activeSelectionBackground": "#00000088",
 		"list.activeSelectionForeground": "#ee8811",
 		"list.dropBackground": "#ee881122",
@@ -296,7 +296,11 @@
 		"welcomePage.buttonBackground": "#333333",
 		"welcomePage.buttonHoverBackground": "#ee881144",
 		"widget.shadow": "#00000088",
-		//"editorActiveLineNumber.foreground": "#c6c6c6"
+		//"activityBar.inactiveForeground": "#ffffff99",
+		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
+		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
+		//"editorActiveLineNumber.foreground": "#c6c6c6",
+		//"menu.separatorBackground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
@@ -889,7 +893,6 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				// "foreground": "#789F"
 				"foreground": "#A97F"
 			}
 		},
