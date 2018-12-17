@@ -1,6 +1,7 @@
 # Change Log
-## [1.0.0]
-- Initial development and release
+## [1.1.1]
+### Modified
+- Tweaked `focusBorder`
 ---
 ## [1.1.0]
 ### Added
@@ -10,3 +11,6 @@
 - Fixed `focusBorder` and `inputValidation` border colors 
 - Improved Markdown representation clarity
 - Improved diff editor colors
+---
+## [1.0.0]
+- Initial development and release
