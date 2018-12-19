@@ -1,6 +1,6 @@
 .vscode/**
 .vscode-test/**
-static/*
+static/**
 .gitignore
 .gitattributes
 vsc-extension-quickstart.md
