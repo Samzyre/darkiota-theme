@@ -1,4 +1,11 @@
 # Change Log
+## [1.2.0]
+### Added
+- Theme colors for editor stack frame highlights and modified tab borders
+### Modified
+- Tweaked `titleBar.activeBackground`
+- Improved merge highlight colors
+---
 ## [1.1.1]
 ### Modified
 - Tweaked `focusBorder`
