@@ -1,4 +1,10 @@
 # Change Log
+## [1.2.1]
+### Added
+- Color for `editor.snippetFinalTabstopHighlightBackground`
+### Modified
+- Tweaked `editorRuler.foreground`
+---
 ## [1.2.0]
 ### Added
 - Theme colors for editor stack frame highlights and modified tab borders
