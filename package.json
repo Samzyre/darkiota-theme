@@ -2,11 +2,11 @@
 	"name": "darkiota",
 	"displayName": "Darkiota Theme",
 	"description": "Darkiota is a color theme for vscode.",
-	"version": "1.2.1",
+	"version": "1.3.0",
 	"publisher": "Samzyre",
 	"icon": "icon.png",
 	"engines": {
-		"vscode": "^1.27.0"
+		"vscode": "^1.35.0"
 	},
 	"repository": {
 		"url": "https://github.com/Samzyre/darkiota-theme"
