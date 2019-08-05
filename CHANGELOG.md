@@ -1,4 +1,10 @@
 # Change Log
+## [1.3.0]
+### Added
+- New colors for `editorHoverWidget`, `listFilterWidget`, `quickInput`, `tab` and `tree`
+### Modified
+- Tweaked `editorRuler.foreground`
+---
 ## [1.2.1]
 ### Added
 - Color for `editor.snippetFinalTabstopHighlightBackground`
