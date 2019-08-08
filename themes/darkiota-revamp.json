@@ -376,33 +376,7 @@
 			}
 		},
 		{
-			"scope": [
-				"punctuation.definition",
-				"punctuation.separator",
-				"punctuation.terminator",
-				"punctuation.accessor",
-				"meta.brace",
-				"meta.block"
-			],
-			"settings": {
-				"foreground": "#bbb"
-			}
-		},
-		{
-			"scope": "keyword.other.unit",
-			"settings": {
-				"foreground": "#a97"
-			}
-		},
-		{
-			"scope": [
-				"keyword",
-				"storage",
-				"keyword.operator.new",
-				"storage.type",
-				"storage.type.class",
-				"meta.separator",
-			],
+			"scope": "keyword",
 			"settings": {
 				"foreground": "#e81"
 			}
@@ -410,33 +384,49 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
+				"foreground": "#ccc"
+			}
+		},
+		{
+			"scope": "keyword.other.unit",
+			"settings": {
 				"foreground": "#ca1"
 			}
 		},
 		{
-			"scope": "constant.numeric",
+			"scope": [
+				"storage",
+				"support.type",
+				"support.class"
+			],
 			"settings": {
-				"foreground": "#9b8"
+				"foreground": "#7bb"
 			}
 		},
 		{
 			"scope": [
-				"constant",
-				"support.constant"
+				"storage.type.class",
+				"keyword.operator.new"
 			],
 			"settings": {
-				"foreground": "#c8a"
+				"foreground": "#e81"
 			}
 		},
 		{
 			"scope": [
-				"support.constant",
-				"constant.character",
-				"constant.regexp",
-				"constant.other",
+				"entity.name",
+				"entity.name.type",
+				"entity.name.class",
+				"variable.other"
 			],
 			"settings": {
-				"foreground": "#a8c"
+				"foreground": "#abc"
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#ca1"
 			}
 		},
 		{
@@ -449,19 +439,17 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name",
-				"variable.other"
-			],
+			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#abc"
+				"foreground": "#9b8"
 			}
 		},
 		{
 			"scope": [
-				"entity.name.class",
-				"support.type",
-				"support.class"
+				"meta.object",
+				"meta.object-literal",
+				"support.type.property-name",
+				"support.type.object"
 			],
 			"settings": {
 				"foreground": "#abc"
@@ -474,12 +462,6 @@
 			],
 			"settings": {
 				"foreground": "#69c"
-			}
-		},
-		{
-			"scope": "entity.other",
-			"settings": {
-				"foreground": "#a8c"
 			}
 		},
 		{
@@ -503,14 +485,57 @@
 		},
 		{
 			"scope": [
-				"support.constant.property-value",
-				"support.constant.font-name",
-				"support.constant.color",
-				"markup.fenced_code",
-				"punctuation.definition.metadata.markdown"
+				"punctuation.definition",
+				"punctuation.separator",
+				"punctuation.separator.continuation",
+				"punctuation.terminator",
+				"punctuation.accessor",
+				"meta.brace",
+				"meta.block"
 			],
 			"settings": {
-				"foreground": "#ca1"
+				"foreground": "#bbb"
+			}
+		},
+		{
+			"scope": [
+				"constant",
+				"support.constant"
+			],
+			"settings": {
+				"foreground": "#c8a"
+			}
+		},
+		{
+			"scope": [
+				"entity.other",
+				"support.type.core"
+			],
+			"settings": {
+				"foreground": "#6b9"
+			}
+		},
+		{
+			"scope": [
+				"support.constant",
+				"constant.character",
+				"constant.regexp",
+				"constant.other",
+			],
+			"settings": {
+				"foreground": "#a8c"
+			}
+		},
+		{
+			"scope": "meta.attribute",
+			"settings": {
+				"foreground": "#989"
+			}
+		},
+		{
+			"scope": "meta.type_params",
+			"settings": {
+				"foreground": "#99a"
 			}
 		},
 		{
@@ -536,8 +561,53 @@
 				"punctuation.definition.string.end.markdown"
 			],
 			"settings": {
-				"foreground": "#c54"
+				"foreground": "#c54",
+				"fontStyle": "bold"
 			}
 		},
+		{
+			"scope": [
+				"markup.fenced_code",
+				"punctuation.definition.metadata.markdown"
+			],
+			"settings": {
+				"foreground": "#ca1",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.heading",
+				"markup.heading",
+				"meta.separator.markdown"
+			],
+			"settings": {
+				"foreground": "#e81",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.name.section",
+			"settings": {
+				"foreground": "#a8c",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#a8c"
+			}
+		},
+		{
+			"scope": [
+				"support.constant.property-value",
+				"support.constant.font-name",
+				"support.constant.color"
+			],
+			"settings": {
+				"foreground": "#c54"
+			}
+		}
 	]
 }

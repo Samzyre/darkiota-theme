@@ -34,6 +34,11 @@
 				"path": "./themes/darkiota.json"
 			},
 			{
+				"label": "Darkiota Revamp",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkiota-revamp.json"
+			},
+			{
 				"label": "Darkiota Simple",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkiota-simple.json"
