@@ -1,4 +1,10 @@
 # Change Log
+## [1.4.0]
+### Added
+- TODO
+### Modified
+- TODO
+---
 ## [1.3.1]
 ### Modified
 - Tweaked `snippetFinalTabstopHighlightBackground` and `snippetTabstopHighlightBackground`
