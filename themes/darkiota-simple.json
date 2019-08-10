@@ -397,7 +397,6 @@
 		{
 			"scope": [
 				"keyword",
-				"storage",
 				"keyword.operator.new",
 				"storage.type",
 				"storage.type.class",
@@ -442,6 +441,7 @@
 		{
 			"scope": [
 				"storage.modifier",
+				"entity.name",
 				"entity.name.tag"
 			],
 			"settings": {
@@ -450,21 +450,39 @@
 		},
 		{
 			"scope": [
-				"entity.name",
-				"variable.other"
+				"entity.name.type",
+				"entity.name.class",
+			],
+			"settings": {
+				"foreground": "#4ab"
+			}
+		},
+		{
+			"scope": [
+				"storage",
+				"support.type",
+				"support.class",
+			],
+			"settings": {
+				"foreground": "#4b7"
+			}
+		},
+		{
+			"scope": [
+				"meta.object",
+				"meta.object-literal",
+				"support.type.object",
+				"meta.definition variable",
+				"entity.other"
 			],
 			"settings": {
 				"foreground": "#abc"
 			}
 		},
 		{
-			"scope": [
-				"entity.name.class",
-				"support.type",
-				"support.class"
-			],
+			"scope": "meta.attribute",
 			"settings": {
-				"foreground": "#abc"
+				"foreground": "#989"
 			}
 		},
 		{
@@ -474,12 +492,6 @@
 			],
 			"settings": {
 				"foreground": "#69c"
-			}
-		},
-		{
-			"scope": "entity.other",
-			"settings": {
-				"foreground": "#a8c"
 			}
 		},
 		{

@@ -395,12 +395,22 @@
 		},
 		{
 			"scope": [
-				"storage",
-				"support.type",
-				"support.class"
+				"entity.name.type",
+				"entity.name.class"
 			],
 			"settings": {
-				"foreground": "#7bb"
+				"foreground": "#4ab"
+			}
+		},
+		{
+			"scope": [
+				"storage",
+				"support.type",
+				"support.class",
+				"entity.other"
+			],
+			"settings": {
+				"foreground": "#4b7"
 			}
 		},
 		{
@@ -413,12 +423,7 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name",
-				"entity.name.type",
-				"entity.name.class",
-				"variable.other"
-			],
+			"scope": "meta.definition variable",
 			"settings": {
 				"foreground": "#abc"
 			}
@@ -432,6 +437,7 @@
 		{
 			"scope": [
 				"storage.modifier",
+				"entity.name",
 				"entity.name.tag"
 			],
 			"settings": {
@@ -504,15 +510,6 @@
 			],
 			"settings": {
 				"foreground": "#c8a"
-			}
-		},
-		{
-			"scope": [
-				"entity.other",
-				"support.type.core"
-			],
-			"settings": {
-				"foreground": "#6b9"
 			}
 		},
 		{
