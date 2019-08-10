@@ -4,6 +4,7 @@
 - 2 new variations with revamped syntax colors
 ### Modified
 - Renamed v1 theme to `Darkiota Origin`
+- Tweaked `editorUnnecessaryCode` border color
 ---
 ## [1.3.1]
 ### Modified
