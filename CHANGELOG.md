@@ -1,9 +1,9 @@
 # Change Log
-## [1.4.0]
+## [2.0.0]
 ### Added
-- TODO
+- 2 new variations with revamped syntax colors
 ### Modified
-- TODO
+- Renamed v1 theme to `Darkiota Origin`
 ---
 ## [1.3.1]
 ### Modified
