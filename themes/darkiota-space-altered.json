@@ -341,7 +341,10 @@
 			}
 		},
 		{
-			"scope": "header",
+			"scope": [
+				"header",
+				"entity.alias"
+			],
 			"settings": {
 				"foreground": "#abc"
 			}
@@ -381,8 +384,7 @@
 				"punctuation.separator",
 				"punctuation.terminator",
 				"punctuation.accessor",
-				"meta.brace",
-				"meta.block"
+				"meta.brace"
 			],
 			"settings": {
 				"foreground": "#bbb"
@@ -449,12 +451,9 @@
 			}
 		},
 		{
-			"scope": [
-				"entity.name.type",
-				"entity.name.class",
-			],
+			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#4ab"
+				"foreground": "#5bb"
 			}
 		},
 		{
@@ -462,21 +461,24 @@
 				"storage",
 				"support.type",
 				"support.class",
+				"entity.name.class"
 			],
 			"settings": {
-				"foreground": "#4b7"
+				"foreground": "#5b7"
 			}
 		},
 		{
 			"scope": [
+				"variable.other.assignment",
+				"meta.definition variable",
+				"meta.block",
 				"meta.object",
 				"meta.object-literal",
 				"support.type.object",
-				"meta.definition variable",
-				"entity.other"
+				"entity.other",
 			],
 			"settings": {
-				"foreground": "#abc"
+				"foreground": "#9ab"
 			}
 		},
 		{
