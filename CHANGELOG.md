@@ -1,10 +1,10 @@
 # Change Log
 ## [2.0.0]
 ### Added
-- 2 new variations with revamped syntax colors
+- 2 new variations with revamped syntax colors: `Space` and `Space Altered`
 ### Modified
 - Renamed v1 theme to `Darkiota Origin`
-- Tweaked `editorUnnecessaryCode` border color
+- Tweaked `editorUnnecessaryCode` border color (all)
 ---
 ## [1.3.1]
 ### Modified
