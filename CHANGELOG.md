@@ -5,6 +5,7 @@
 ### Modified
 - Renamed v1 theme to `Darkiota Origin`
 - Tweaked `editorUnnecessaryCode` border color (all)
+- Tweaked `editorMarkerNavigationError` background color (all)
 ---
 ## [1.3.1]
 ### Modified
