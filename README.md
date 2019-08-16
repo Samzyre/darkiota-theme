@@ -35,6 +35,8 @@ the feel might seem a bit off and needs tuning.
 
 ![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/rust2.png)
 
+![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/rust3.png)
+
 ![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/go1.png)
 
 ![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/json1.png)
