@@ -1,11 +1,13 @@
 # Change Log
 ## [2.0.0]
 ### Added
-- 2 new variations with revamped syntax colors: `Space` and `Space Altered`
+- 2 new variations with revamped syntax colors: `Darkiota Space` and `Darkiota Space Altered`
+- New colors for `editorWidget`, `imagePreview`, `inputOption` and `minimap`
+### Renamed
+- v1 theme `Darkiota` is now `Darkiota Origin`
 ### Modified
-- Renamed v1 theme to `Darkiota Origin`
-- Tweaked `editorUnnecessaryCode` border color (all)
-- Tweaked `editorMarkerNavigationError` background color (all)
+- Tweaked `editorUnnecessaryCode` border color
+- Tweaked `editorMarkerNavigationError` background color
 ---
 ## [1.3.1]
 ### Modified
