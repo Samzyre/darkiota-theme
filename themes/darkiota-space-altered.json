@@ -93,7 +93,7 @@
 		"editorLineNumber.foreground": "#88888888",
 		"editorLink.activeForeground": "#9966cc",
 		"editorMarkerNavigation.background": "#333333",
-		"editorMarkerNavigationError.background": "#cc111188",
+		"editorMarkerNavigationError.background": "#cc221188",
 		"editorMarkerNavigationInfo.background": "#11888888",
 		"editorMarkerNavigationWarning.background": "#88881188",
 		"editorOverviewRuler.addedForeground": "#55aa1188",
