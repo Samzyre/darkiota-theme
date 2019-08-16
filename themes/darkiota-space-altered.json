@@ -523,6 +523,12 @@
 			"settings": {
 				"foreground": "#999"
 			}
+		},
+		{
+			"scope": "markup.underline.link",
+			"settings": {
+				"foreground": "#a8a"
+			}
 		}
 	]
 }

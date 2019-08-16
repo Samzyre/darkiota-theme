@@ -529,6 +529,12 @@
 			}
 		},
 		{
+			"scope": "markup.underline.link",
+			"settings": {
+				"foreground": "#a8a"
+			}
+		},
+		{
 			"scope": [
 				"punctuation.definition.markdown",
 				"punctuation.definition.raw.markdown",
