@@ -265,6 +265,7 @@
 		"statusBarItem.hoverBackground": "#88888844",
 		"statusBarItem.prominentBackground": "#22222288",
 		"statusBarItem.prominentHoverBackground": "#88888844",
+		"statusBarItem.remoteBackground": "#ee881188",
 		"tab.activeBackground": "#000000",
 		"tab.activeBorder": "#ee8811",
 		"tab.activeBorderTop": "#ee881188",
@@ -328,7 +329,6 @@
 		//"extensionBadge.remoteBackground": "#ee8811",
 		//"extensionBadge.remoteForeground": "#ffffff",
 		//"statusBarItem.prominentForeground": "#ee8811",
-		//"statusBarItem.remoteBackground": "#ee8811",
 		//"statusBarItem.remoteForeground": "#ffffff"
 	},
 	"tokenColors": [

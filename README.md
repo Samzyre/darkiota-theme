@@ -23,7 +23,7 @@ the feel might seem a bit off and needs tuning.
 ### **Some notes**
 - Version 1.x theme is now renamed to `Darkiota Origin`
 - The two new variations are called `Space` and `Space Altered`
-- The icon theme I use is [material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- The icon theme I use is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Change Log](CHANGELOG.md)
 
 

@@ -1,4 +1,9 @@
 # Change Log
+## [2.0.1]
+### Added
+- Color for `statusBarItem.remoteBackground`
+
+---
 ## [2.0.0]
 ### Added
 - 2 new variations with revamped syntax colors: `Darkiota Space` and `Darkiota Space Altered`
