@@ -1,4 +1,9 @@
 # Change Log
+## [2.0.2]
+### Modified
+- Tweaked `editorWhitespace.foreground` color
+
+---
 ## [2.0.1]
 ### Added
 - Color for `statusBarItem.remoteBackground`

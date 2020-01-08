@@ -10,13 +10,13 @@ If you give it a go, please consider letting me know what you think.
 Thoughts for improvements, changes or new ideas, all feedback is welcome!
 
 
-**Version 2.0** is here and brings two new theme variations focused on syntax. While the variants
-don't change the surrounding editor look, their token colors have been totally revamped along with
+**Version 2.0** brings two new theme variations focused on syntax. While the variants
+don't change the surrounding workbench look, their token colors have been totally revamped along with
 some changes of their own. Their aim is to make the theme look more consistent and hopefully more
 readable across different languages and highlights.
 
 
-**Syntax support** goal is to keep token highlights as general as possible. In some cases however,
+**Syntax support** goal is to keep token highlights as generic as possible. In some cases however,
 the feel might seem a bit off and needs tuning.
 
 
