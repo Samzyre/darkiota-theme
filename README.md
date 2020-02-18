@@ -6,8 +6,7 @@ It's a vscode color theme that I have been tuning a bit by bit to fit my likes.
 A theme that combines ideas and thoughts into something, just can't quite put my finger on it.
 Nothing is perfect but I think it's getting somewhere.
 
-If you give it a go, please consider letting me know what you think. 
-Thoughts for improvements, changes or new ideas, all feedback is welcome!
+If you give it a go, please consider letting me know what you think. All feedback is welcome! :)
 
 
 **Version 2.0** brings two new theme variations focused on syntax. While the variants
