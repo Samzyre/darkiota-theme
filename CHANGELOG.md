@@ -1,4 +1,9 @@
 # Change Log
+## [2.0.3]
+### Removed
+- Removed `source` token scope from themes `Space` and `Space Altered`
+
+---
 ## [2.0.2]
 ### Modified
 - Tweaked `editorWhitespace.foreground` color
