@@ -2,11 +2,11 @@
 	"name": "darkiota",
 	"displayName": "Darkiota Theme",
 	"description": "Some dark theme for vscode",
-	"version": "2.0.3",
+	"version": "2.1.0",
 	"publisher": "Samzyre",
 	"icon": "icon.png",
 	"engines": {
-		"vscode": "^1.35.0"
+		"vscode": "^1.46.0"
 	},
 	"repository": {
 		"url": "https://github.com/Samzyre/darkiota-theme"
@@ -46,5 +46,6 @@
 				"path": "./themes/darkiota-space-altered.json"
 			}
 		]
-	}
+	},
+	"dependencies": {}
 }
