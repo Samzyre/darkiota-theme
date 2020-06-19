@@ -8,25 +8,18 @@ Nothing is perfect but I think it's getting somewhere.
 
 If you give it a go, please consider letting me know what you think. All feedback is welcome! :)
 
-
-**Version 2.0** brings two new theme variations focused on syntax. While the variants
-don't change the surrounding workbench look, their token colors have been totally revamped along with
-some changes of their own. Their aim is to make the theme look more consistent and hopefully more
-readable across different languages and highlights.
-
-
-**Syntax support** goal is to keep token highlights as generic as possible. In some cases however,
-the feel might seem a bit off and needs tuning.
-
+**Version 2.1** currently features three theme variants (although subtle.. depending),
+which all share the same surrounding workbench look. Compared to `v2.0`, some workbench colors have been
+adjusted, including terminal, settings menu, and other details from new vscode updates.
+A few token colors have been shifted around and/or tweaked with a couple of additions. 
 
 ### **Some notes**
-- Version 1.x theme is now renamed to `Darkiota Origin`
-- The two new variations are called `Space` and `Space Altered`
+
+- Attempting to keep **syntax support** as generic as possible. Inevitably,
+  some specific items or a language highlight might need a bit of tuning sometimes.
 - The icon theme I use is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Change Log](CHANGELOG.md)
 
-
-## ***Pics or bust!***
+## **_Pics or bust!_**
 
 ![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/settings1.png)
 
