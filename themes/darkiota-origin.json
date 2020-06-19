@@ -471,13 +471,19 @@
 			}
 		},
 		{
-			"scope": "comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
 			"settings": {
 				"foreground": "#AABBBB88"
 			}
 		},
 		{
-			"scope": "string",
+			"scope": [
+				"string",
+				"punctuation.definition.string"
+			],
 			"settings": {
 				"foreground": "#BB8877"
 			}
@@ -496,11 +502,13 @@
 		},
 		{
 			"scope": [
+				"punctuation.definition.constant",
 				"constant.character",
-				"constant.other"
+				"constant.other",
+				"support.constant"
 			],
 			"settings": {
-				"foreground": "#AA88BB"
+				"foreground": "#AA88CC"
 			}
 		},
 		{
@@ -546,14 +554,15 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#AA88BB",
+				"foreground": "#AA88CC",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": [
 				"entity.name.function",
-				"support.function"
+				"support.function",
+				"meta.function-call.generic"
 			],
 			"settings": {
 				"foreground": "#6699CC"
@@ -574,19 +583,13 @@
 			}
 		},
 		{
-			"scope": "support.constant",
-			"settings": {
-				"foreground": "#AA88CC",
-				"fontStyle": ""
-			}
-		},
-		{
 			"scope": [
 				"support.type",
-				"support.class"
+				"support.class",
+				"punctuation.support"
 			],
 			"settings": {
-				"foreground": "#AABBCC",
+				"foreground": "#BBCCDD",
 				"fontStyle": ""
 			}
 		},
@@ -701,7 +704,7 @@
 		{
 			"scope": "variable.other",
 			"settings": {
-				"foreground": "#BBCCDD",
+				"foreground": "#AABBCC",
 				"fontStyle": ""
 			}
 		},
@@ -765,7 +768,7 @@
 				"markup.italic.markdown"
 			],
 			"settings": {
-				"foreground": "#AA88BB"
+				"foreground": "#AA88AA"
 			}
 		},
 		{
@@ -836,11 +839,7 @@
 		},
 		{
 			"scope": [
-				"punctuation.definition.bracket",
-				"punctuation.definition.begin",
-				"punctuation.definition.end",
-				"punctuation.other",
-				"punctuation.terminator",
+				"punctuation",
 				"keyword.operator"
 			],
 			"settings": {
@@ -919,7 +918,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#998899"
+				"foreground": "#AA8899"
 			}
 		},
 		{
@@ -946,7 +945,7 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#AA88BB"
+				"foreground": "#AA88AA"
 			}
 		},
 		{
@@ -985,7 +984,10 @@
 			}
 		},
 		{
-			"scope": "variable.language",
+			"scope": [
+				"variable.language",
+				"variable.parameter.function.language.special"
+			],
 			"settings": {
 				"foreground": "#AA9977"
 			}
