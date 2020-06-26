@@ -4,11 +4,8 @@
 
 ### Added / Modified
 
-- Various token scopes for `punctuation`, `meta`, `variable` and other minor changes
-
 - Workbench changes for
-  - `editorWhitespace`
-  - `terminal`, `terminalCursor`
+  - `editorWhitespace`, `terminal`
   - `debugConsole`, `diffEditor`
   - `activityBar`, `editorGroup`, `tab`
   - `settings`, `checkbox`, `dropdown`

@@ -11,7 +11,6 @@ If you give it a go, please consider letting me know what you think. All feedbac
 **Version 2.1** currently features three theme variants (although subtle.. depending),
 which all share the same surrounding workbench look. Compared to `v2.0`, some workbench colors have been
 adjusted, including terminal, settings menu, and other details from new vscode updates.
-A few token colors have been shifted around and/or tweaked with a couple of additions. 
 
 ### **Some notes**
 
