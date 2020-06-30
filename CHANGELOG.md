@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.2.0]
+
+### Added / Modified
+
+- Token changes for
+  - `punctuation`, `meta`, `variable`
+  - `support`, `entity`, `keyword`
+
+---
+
 ## [2.1.0]
 
 ### Added / Modified

@@ -8,9 +8,14 @@ Nothing is perfect but I think it's getting somewhere.
 
 If you give it a go, please consider letting me know what you think. All feedback is welcome! :)
 
-**Version 2.1** currently features three theme variants (although subtle.. depending),
-which all share the same surrounding workbench look. Compared to `v2.0`, some workbench colors have been
-adjusted, including terminal, settings menu, and other details from new vscode updates.
+**Version 2.2** currently features three theme variants (although subtle.. depending),
+which all share the same surrounding workbench look.
+
+- Compared to `v2.0`:
+  - `v2.1`: Some workbench colors have been adjusted, including terminal, settings menu,
+    and other details from new vscode updates.
+  - `v2.2`: Token highlight colors adjustments, including scopes for
+    _punctuation_, _meta_, _variable_ and a couple of others.
 
 ### **Some notes**
 
@@ -19,6 +24,8 @@ adjusted, including terminal, settings menu, and other details from new vscode u
 - The icon theme I use is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ## **_Pics or bust!_**
+
+<small>( To be updated <sup>tm</sup> )</small>
 
 ![Screenshot](https://raw.githubusercontent.com/Samzyre/darkiota-theme/master/static/settings1.png)
 
