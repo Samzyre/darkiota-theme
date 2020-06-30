@@ -497,8 +497,15 @@
 			}
 		},
 		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#BBBB88"
+			}
+		},
+		{
 			"scope": [
 				"variable.language",
+				"variable.parameter.function.language.special",
 				"keyword.other.this"
 			],
 			"settings": {
@@ -517,8 +524,7 @@
 		{
 			"scope": [
 				"keyword",
-				"storage.type.class",
-				"keyword.operator.new"
+				"storage.type.class"
 			],
 			"settings": {
 				"foreground": "#EE8811"
@@ -544,7 +550,8 @@
 				"meta.object",
 				"meta.object-literal",
 				"support.type.property-name",
-				"support.type.object"
+				"support.type.object",
+				"punctuation.support"
 			],
 			"settings": {
 				"foreground": "#99AABB"
@@ -554,7 +561,8 @@
 			"scope": [
 				"storage",
 				"support.class",
-				"entity.name.class"
+				"entity.name.class",
+				"entity.name.function.decorator"
 			],
 			"settings": {
 				"foreground": "#55BBBB"
@@ -592,10 +600,12 @@
 		},
 		{
 			"scope": [
+				"entity.name.function",
 				"markup",
 				"meta.embedded",
-				"support.function",
-				"entity.name.function"
+				"meta.function-call.generic",
+				"punctuation.section.embedded",
+				"support.function"
 			],
 			"settings": {
 				"foreground": "#6699CC"
@@ -603,11 +613,7 @@
 		},
 		{
 			"scope": [
-				"punctuation.definition",
-				"punctuation.separator",
-				"punctuation.separator.continuation",
-				"punctuation.terminator",
-				"punctuation.accessor",
+				"punctuation",
 				"meta.brace"
 			],
 			"settings": {
@@ -616,6 +622,7 @@
 		},
 		{
 			"scope": [
+				"punctuation.definition.constant",
 				"constant",
 				"constant.character",
 				"constant.regexp",
@@ -626,9 +633,19 @@
 			}
 		},
 		{
-			"scope": "meta.attribute",
+			"scope": [
+				"meta.preprocessor",
+				"meta.selector",
+				"meta.attribute"
+			],
 			"settings": {
-				"foreground": "#998899"
+				"foreground": "#AA8899"
+			}
+		},
+		{
+			"scope": "support.variable",
+			"settings": {
+				"foreground": "#9988AA"
 			}
 		},
 		{
@@ -646,7 +663,7 @@
 		{
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#AA88AA"
+				"foreground": "#998899"
 			}
 		},
 		{
