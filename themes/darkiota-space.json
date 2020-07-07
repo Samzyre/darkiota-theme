@@ -544,14 +544,15 @@
 		},
 		{
 			"scope": [
-				"variable.other.assignment",
-				"meta.definition variable",
 				"meta.block",
-				"meta.object",
+				"meta.definition variable",
 				"meta.object-literal",
-				"support.type.property-name",
+				"meta.object",
+				"punctuation.support",
 				"support.type.object",
-				"punctuation.support"
+				"support.type.property-name",
+				"support.variable",
+				"variable.other.assignment"
 			],
 			"settings": {
 				"foreground": "#99AABB"
@@ -639,13 +640,7 @@
 				"meta.attribute"
 			],
 			"settings": {
-				"foreground": "#AA8899"
-			}
-		},
-		{
-			"scope": "support.variable",
-			"settings": {
-				"foreground": "#9988AA"
+				"foreground": "#99889F"
 			}
 		},
 		{
