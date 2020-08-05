@@ -489,8 +489,18 @@
 		},
 		{
 			"scope": [
+				"string.quoted.docstring",
+				"string.quoted.docstring punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#CCBBAA88"
+			}
+		},
+		{
+			"scope": [
 				"string",
-				"punctuation.definition.string"
+				"punctuation.definition.string",
+				"punctuation.definition.char"
 			],
 			"settings": {
 				"foreground": "#BB8877"
@@ -543,6 +553,15 @@
 			],
 			"settings": {
 				"foreground": "#CCAA11"
+			}
+		},
+		{
+			"scope": [
+				"keyword.preprocessor",
+				"keyword.other.documentation"
+			],
+			"settings": {
+				"foreground": "#DD5588"
 			}
 		},
 		{

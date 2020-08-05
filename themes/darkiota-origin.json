@@ -483,8 +483,18 @@
 		},
 		{
 			"scope": [
+				"string.quoted.docstring",
+				"string.quoted.docstring punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#CCBBAA88"
+			}
+		},
+		{
+			"scope": [
 				"string",
-				"punctuation.definition.string"
+				"punctuation.definition.string",
+				"punctuation.definition.char"
 			],
 			"settings": {
 				"foreground": "#BB8877"
@@ -531,6 +541,15 @@
 		},
 		{
 			"scope": [
+				"keyword.preprocessor",
+				"keyword.other.documentation"
+			],
+			"settings": {
+				"foreground": "#DD5588"
+			}
+		},
+		{
+			"scope": [
 				"storage",
 				"entity.name.function.decorator"
 			],
@@ -540,7 +559,11 @@
 			}
 		},
 		{
-			"scope": "storage.type",
+			"scope": [
+				"storage.type",
+				"keyword.other.var",
+				"entity.name.tag"
+			],
 			"settings": {
 				"foreground": "#DDAA11",
 				"fontStyle": ""
@@ -577,13 +600,6 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#CCCCCC",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": "entity.name.tag",
-			"settings": {
-				"foreground": "#DDAA11",
 				"fontStyle": ""
 			}
 		},
