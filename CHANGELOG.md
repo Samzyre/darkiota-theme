@@ -1,5 +1,26 @@
 # Change Log
 
+## [2.2.1]
+
+### Added
+
+- All
+  - Colors for `string.quoted.docstring`, `punctuation.definition.char`,
+    `keyword.preprocessor` and `keyword.other.documentation`
+
+* Origin
+  - Color for `keyword.other.var`
+
+- Space
+  - Colors for `keyword.other.var` and `constant.variable`
+
+### Modified
+
+- Space
+  - Tweaked `constant.character`, `constant.language` and `punctuation.definition.constant`
+
+---
+
 ## [2.2.0]
 
 ### Added / Modified

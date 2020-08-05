@@ -2,7 +2,7 @@
 	"name": "darkiota",
 	"displayName": "Darkiota Theme",
 	"description": "Some dark theme for vscode",
-	"version": "2.2.0",
+	"version": "2.2.1",
 	"publisher": "Samzyre",
 	"icon": "icon.png",
 	"engines": {
