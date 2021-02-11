@@ -1,5 +1,19 @@
 # Change Log
 
+## [2.2.2]
+
+### Added
+
+- All
+  - Setting for `semanticHighlighting`
+
+### Modified
+
+- Origin and Space
+  - Tweaks for some `entity.name` tokens
+
+---
+
 ## [2.2.1]
 
 ### Added
