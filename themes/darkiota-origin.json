@@ -812,7 +812,7 @@
 		{
 			"scope": "entity.name.section.markdown",
 			"settings": {
-				"foreground": "#EEEEEE"
+				"foreground": "#DDDDDD"
 			}
 		},
 		{
@@ -959,7 +959,7 @@
 				"entity.name.package"
 			],
 			"settings": {
-				"foreground": "#EEEEEE"
+				"foreground": "#DDDDDD"
 			}
 		},
 		{
