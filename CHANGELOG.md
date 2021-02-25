@@ -1,5 +1,14 @@
 # Change Log
 
+## [2.2.3]
+
+### Modified
+
+- All
+  - Changed `listFilterWidget` workspace colors
+
+---
+
 ## [2.2.2]
 
 ### Added
