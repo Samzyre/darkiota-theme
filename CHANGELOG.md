@@ -1,5 +1,22 @@
 # Change Log
 
+## [2.3.0]
+
+### Added
+
+- All
+  - Color for `entity.name.type.lifetime`
+
+* Space
+  - Color for `entity.name.namespace`
+
+### Modified
+
+- All
+  - Tweaked `editor` selection, find match and word highlight colors
+
+---
+
 ## [2.2.3]
 
 ### Modified
