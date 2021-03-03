@@ -686,6 +686,7 @@
 				"entity.name",
 				"entity.name.tag",
 				"entity.name.type.lifetime",
+				"punctuation.definition.lifetime",
 				"support.constant.property-value",
 				"support.constant.font-name",
 				"support.constant.color"

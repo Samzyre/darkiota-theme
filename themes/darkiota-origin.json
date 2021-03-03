@@ -645,7 +645,8 @@
 		{
 			"scope": [
 				"storage.modifier",
-				"entity.name.type.lifetime"
+				"entity.name.type.lifetime",
+				"punctuation.definition.lifetime",
 			],
 			"settings": {
 				"foreground": "#CC5544"

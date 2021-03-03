@@ -667,6 +667,7 @@
 				"entity.name",
 				"entity.name.tag",
 				"entity.name.type.lifetime",
+				"punctuation.definition.lifetime",
 				"punctuation.definition.markdown",
 				"punctuation.definition.raw.markdown",
 				"punctuation.definition.string.begin.markdown",
