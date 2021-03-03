@@ -1,5 +1,18 @@
 # Change Log
 
+## [2.3.2]
+
+### Added
+
+- All
+  - Color for `punctuation.definition.lifetime`
+
+---
+
+## [2.3.1]
+
+---
+
 ## [2.3.0]
 
 ### Added
