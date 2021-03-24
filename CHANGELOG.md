@@ -1,5 +1,14 @@
 # Change Log
 
+## [2.3.3]
+
+### Added
+
+- All
+  - Tweaks for `peekViewEditor`, `peekViewResult` and `editor.findMatchBorder`
+
+---
+
 ## [2.3.2]
 
 ### Added
