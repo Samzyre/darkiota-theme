@@ -139,7 +139,7 @@
 		"editorWidget.border": "#88888844",
 		"editorWidget.foreground": "#aaaaaa",
 		"editorWidget.resizeBorder": "#ee881188",
-		"errorForeground": "#cc2211",
+		"errorForeground": "#ee4444",
 		"extensionButton.prominentBackground": "#444444",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentHoverBackground": "#ee881188",
@@ -210,6 +210,7 @@
 		"notifications.background": "#333333",
 		"notifications.border": "#88888844",
 		"notifications.foreground": "#cccccc",
+		"notificationsErrorIcon.foreground": "#ee4444",
 		"panel.background": "#333333",
 		"panel.border": "#88888844",
 		"panel.dropBorder": "#ee8811",
@@ -237,6 +238,9 @@
 		"peekViewTitleLabel.foreground": "#ee8811",
 		"pickerGroup.border": "#88888844",
 		"pickerGroup.foreground": "#ee8811",
+		"problemsErrorIcon.foreground": "#cc2211",
+		"problemsInfoIcon.foreground": "#778899",
+		"problemsWarningIcon.foreground": "#aa8844",
 		"progressBar.background": "#ee8811",
 		"quickInput.background": "#282828",
 		"quickInput.foreground": "#cccccc",
@@ -421,21 +425,17 @@
 		//"notebook.inactiveFocusedCellBorder": "#11111188",
 		//"notebook.outputContainerBackgroundColor": "#11111188",
 		//"notebook.rowHoverBackground": "#80808012",
-		//"notebook.selectedCellBackground": "#383b3d80",
+		//"notebook.selectedCellBackground": "#11111188",
 		//"notebook.selectedCellBorder": "#11111188",
 		//"notebook.symbolHighlightBackground": "#ffffff0b",
 		//"notebookScrollbarSlider.activeBackground": "#ee881188",
 		//"notebookScrollbarSlider.background": "#aaaaaa44",
 		//"notebookScrollbarSlider.hoverBackground": "#ffffff44",
-		//"notebookStatusErrorIcon.foreground": "#cc2211",
+		//"notebookStatusErrorIcon.foreground": "#ee4444",
 		//"notebookStatusRunningIcon.foreground": "#aaaaaa",
 		//"notebookStatusSuccessIcon.foreground": "#89d185",
-		//"notificationsErrorIcon.foreground": "#880000",
 		//"notificationsInfoIcon.foreground": "#4488aa44",
 		//"notificationsWarningIcon.foreground": "#88662288",
-		//"problemsErrorIcon.foreground": "#880000",
-		//"problemsInfoIcon.foreground": "#4488aa44",
-		//"problemsWarningIcon.foreground": "#88662288",
 		//"quickInputList.focusBackground": "#ee881144",
 		//"quickInputTitle.background": "#ffffff1b",
 		//"sash.hoverBorder": "#ee881122",
@@ -444,7 +444,7 @@
 		//"searchEditor.findMatchBorder": "#8844002d",
 		//"searchEditor.textInputBorder": "#11111188",
 		//"settings.focusedRowBackground": "#80808024",
-		//"statusBarItem.errorBackground": "#7a140a",
+		//"statusBarItem.errorBackground": "#a80f0f",
 		//"statusBarItem.errorForeground": "#ffffff",
 		//"statusBarItem.prominentForeground": "#ee8811",
 		//"statusBarItem.remoteForeground": "#ffffff",
@@ -502,6 +502,9 @@
 		//"welcomePage.progress.foreground": "#6699cc",
 		//"welcomePage.tileBackground": "#333333",
 		//"welcomePage.tileHoverBackground": "#3d3d3d",
+		//"welcomePage.tileShadow.": "#00000088",
+		//"workspaceTrust.trustedForergound": "#89d185",
+		//"workspaceTrust.untrustedForeground": "#880000",
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
 		//"contrastActiveBorder": null,
@@ -518,6 +521,7 @@
 		//"minimap.background": null,
 		//"notebook.cellHoverBackground": null,
 		//"notebook.focusedCellBackground": null,
+		//"notebook.inactiveSelectedCellBorder": null,
 		//"panelInput.border": null,
 		//"quickInput.list.focusBackground": null,
 		//"tab.hoverForeground": null,
@@ -778,6 +782,78 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#9966CC"
+			}
+		},
+		{
+			"scope": "text",
+			"settings": {
+				"foreground": "#AAAAAA"
+			}
+		},
+		{
+			"scope": "log",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "log.string",
+			"settings": {
+				"foreground": "#BB8877"
+			}
+		},
+		{
+			"scope": "log.date",
+			"settings": {
+				"foreground": "#778899"
+			}
+		},
+		{
+			"scope": "log.constant",
+			"settings": {
+				"foreground": "#CC88AA"
+			}
+		},
+		{
+			"scope": "log.verbose",
+			"settings": {
+				"foreground": "#AA88CC"
+			}
+		},
+		{
+			"scope": "log.debug",
+			"settings": {
+				"foreground": "#6699CC"
+			}
+		},
+		{
+			"scope": "log.info",
+			"settings": {
+				"foreground": "#99BB88"
+			}
+		},
+		{
+			"scope": "log.warning",
+			"settings": {
+				"foreground": "#CCBB44"
+			}
+		},
+		{
+			"scope": "log.error",
+			"settings": {
+				"foreground": "#CC5544"
+			}
+		},
+		{
+			"scope": "log.exceptiontype",
+			"settings": {
+				"foreground": "#CC6622"
+			}
+		},
+		{
+			"scope": "log.exception",
+			"settings": {
+				"foreground": "#CC9922"
 			}
 		}
 	],
