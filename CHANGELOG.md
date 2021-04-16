@@ -1,5 +1,19 @@
 # Change Log
 
+## [2.3.4]
+
+### Modified
+
+- All
+  - Tweaked various error and problems colors
+
+### Added
+
+- All
+  - Highlights for `log` scope
+
+---
+
 ## [2.3.3]
 
 ### Added
