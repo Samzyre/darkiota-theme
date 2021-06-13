@@ -1,44 +1,64 @@
 # Change Log
 
-## [2.3.4]
+### [2.4.0]
 
-### Modified
+#### Modified
+
+- All
+  - Tweaked inline/inlay text colors
+  - Tweaked whitespace character intensity
+
+#### Added
+
+- Space
+  - Color for `entity.name.module`
+
+#### Removed
+
+- All
+  - Semantic highlighting options
+
+---
+
+### [2.3.4]
+
+#### Modified
 
 - All
   - Tweaked various error and problems colors
 
-### Added
+#### Added
 
 - All
   - Highlights for `log` scope
 
 ---
 
-## [2.3.3]
+### [2.3.3]
 
-### Added
+#### Added
 
 - All
   - Tweaks for `peekViewEditor`, `peekViewResult` and `editor.findMatchBorder`
 
 ---
 
-## [2.3.2]
+### [2.3.2]
 
-### Added
+#### Added
 
 - All
   - Color for `punctuation.definition.lifetime`
 
 ---
 
-## [2.3.1]
+### [2.3.1]
 
 ---
 
-## [2.3.0]
+### [2.3.0]
 
-### Added
+#### Added
 
 - All
   - Color for `entity.name.type.lifetime`
@@ -46,39 +66,39 @@
 * Space
   - Color for `entity.name.namespace`
 
-### Modified
+#### Modified
 
 - All
   - Tweaked `editor` selection, find match and word highlight colors
 
 ---
 
-## [2.2.3]
+### [2.2.3]
 
-### Modified
+#### Modified
 
 - All
   - Changed `listFilterWidget` workspace colors
 
 ---
 
-## [2.2.2]
+### [2.2.2]
 
-### Added
+#### Added
 
 - All
   - Setting for `semanticHighlighting`
 
-### Modified
+#### Modified
 
 - Origin and Space
   - Tweaks for some `entity.name` tokens
 
 ---
 
-## [2.2.1]
+### [2.2.1]
 
-### Added
+#### Added
 
 - All
   - Colors for `string.quoted.docstring`, `punctuation.definition.char`,
@@ -90,16 +110,16 @@
 - Space
   - Colors for `keyword.other.var` and `constant.variable`
 
-### Modified
+#### Modified
 
 - Space
   - Tweaked `constant.character`, `constant.language` and `punctuation.definition.constant`
 
 ---
 
-## [2.2.0]
+### [2.2.0]
 
-### Added / Modified
+#### Added / Modified
 
 - Token changes for
   - `punctuation`, `meta`, `variable`
@@ -107,9 +127,9 @@
 
 ---
 
-## [2.1.0]
+### [2.1.0]
 
-### Added / Modified
+#### Added / Modified
 
 - Workbench changes for
   - `editorWhitespace`, `terminal`
@@ -120,108 +140,108 @@
 
 ---
 
-## [2.0.3]
+### [2.0.3]
 
-### Removed
+#### Removed
 
 - Removed `source` token scope from themes `Space` and `Space Altered`
 
 ---
 
-## [2.0.2]
+### [2.0.2]
 
-### Modified
+#### Modified
 
 - Tweaked `editorWhitespace.foreground` color
 
 ---
 
-## [2.0.1]
+### [2.0.1]
 
-### Added
+#### Added
 
 - Color for `statusBarItem.remoteBackground`
 
 ---
 
-## [2.0.0]
+### [2.0.0]
 
-### Added
+#### Added
 
 - 2 new variations with revamped syntax colors: `Darkiota Space` and `Darkiota Space Altered`
 - New colors for `editorWidget`, `imagePreview`, `inputOption` and `minimap`
 
-### Renamed
+#### Renamed
 
 - v1 theme `Darkiota` is now `Darkiota Origin`
 
-### Modified
+#### Modified
 
 - Tweaked `editorUnnecessaryCode` border color
 - Tweaked `editorMarkerNavigationError` background color
 
 ---
 
-## [1.3.1]
+### [1.3.1]
 
-### Modified
+#### Modified
 
 - Tweaked `snippetFinalTabstopHighlightBackground` and `snippetTabstopHighlightBackground`
 
 ---
 
-## [1.3.0]
+### [1.3.0]
 
-### Added
+#### Added
 
 - New colors for `editorHoverWidget`, `listFilterWidget`, `quickInput`, `tab` and `tree`
 
-### Modified
+#### Modified
 
 - Tweaked `editorRuler.foreground`
 
 ---
 
-## [1.2.1]
+### [1.2.1]
 
-### Added
+#### Added
 
 - Color for `editor.snippetFinalTabstopHighlightBackground`
 
-### Modified
+#### Modified
 
 - Tweaked `editorRuler.foreground`
 
 ---
 
-## [1.2.0]
+### [1.2.0]
 
-### Added
+#### Added
 
 - Theme colors for editor stack frame highlights and modified tab borders
 
-### Modified
+#### Modified
 
 - Tweaked `titleBar.activeBackground`
 - Improved merge highlight colors
 
 ---
 
-## [1.1.1]
+### [1.1.1]
 
-### Modified
+#### Modified
 
 - Tweaked `focusBorder`
 
 ---
 
-## [1.1.0]
+### [1.1.0]
 
-### Added
+#### Added
 
 - New theme colors added by version 1.28.0
 
-### Modified
+#### Modified
 
 - Fixed `focusBorder` and `inputValidation` border colors
 - Improved Markdown representation clarity
@@ -229,6 +249,6 @@
 
 ---
 
-## [1.0.0]
+### [1.0.0]
 
 - Initial development and release
