@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.5.1]
+
+#### Modified
+
+- All
+  - Tweaked terminal ANSI black
+
+---
+
 ### [2.5.0]
 
 #### Modified
