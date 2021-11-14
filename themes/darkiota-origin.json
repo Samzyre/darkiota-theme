@@ -705,6 +705,7 @@
 			"scope": [
 				"storage.type",
 				"keyword.other.var",
+				"keyword.other.unit",
 				"entity.name.tag"
 			],
 			"settings": {
