@@ -1,5 +1,23 @@
 # Change Log
 
+### [2.5.0]
+
+#### Modified
+
+- All
+  - Tweaked terminal colors
+
+#### Added
+
+- All
+  - Symbol icon colors
+  - Git decorations
+
+* Origin
+  - Color for `keyword.other.unit`
+
+---
+
 ### [2.4.0]
 
 #### Modified
