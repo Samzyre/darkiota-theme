@@ -8,7 +8,7 @@ Nothing is perfect but I think it's getting somewhere.
 
 If you give it a go, please consider letting me know what you think. All feedback is welcome! :)
 
-**Version 2.4** currently features three theme variants (although subtle.. depending),
+**Version 2.5** currently features three theme variants (although subtle.. depending),
 which all share the same surrounding workbench look.
 
 ### **Some notes**
