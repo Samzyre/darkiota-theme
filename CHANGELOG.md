@@ -1,5 +1,17 @@
 # Change Log
 
+### [2.5.2]
+
+#### Modified
+
+- All
+  - Tweaked terminal `foreground`
+  - Tweaked unicode highlight
+  - Tweaked fold highlight
+  - Tweaked editor hint and light bulb highlights
+
+---
+
 ### [2.5.1]
 
 #### Modified
