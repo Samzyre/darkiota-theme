@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.5.3]
+
+#### Modified
+
+- All
+  - Tweaked button colors
+
+---
+
 ### [2.5.2]
 
 #### Modified
