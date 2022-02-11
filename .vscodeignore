@@ -4,3 +4,4 @@ static/**
 .gitignore
 .gitattributes
 vsc-extension-quickstart.md
+.github/**
