@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.5.4]
+
+#### Modified
+
+- Space
+  - Toned down `keyword.operator`
+
+---
+
 ### [2.5.3]
 
 #### Modified
