@@ -704,12 +704,6 @@
 			}
 		},
 		{
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#CCCCCC"
-			}
-		},
-		{
 			"scope": [
 				"keyword.preprocessor",
 				"keyword.other.documentation"
@@ -807,6 +801,7 @@
 		},
 		{
 			"scope": [
+				"keyword.operator",
 				"punctuation",
 				"meta.brace"
 			],
