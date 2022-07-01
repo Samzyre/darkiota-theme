@@ -1,5 +1,16 @@
 # Change Log
 
+### [2.5.5]
+
+#### Modified
+
+- All
+  - Tweaked `statusBar` and `statusBarItem` colors
+  - Tweaked `editorInlayHint` colors
+  - Made `editorUnnecessaryCode.border` invisible
+
+---
+
 ### [2.5.4]
 
 #### Modified
