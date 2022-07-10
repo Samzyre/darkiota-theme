@@ -1,5 +1,23 @@
 # Change Log
 
+### [2.5.6]
+
+#### Modified
+
+- All
+  - Tweaked `input`, `quickInputList` and `inputOption` colors
+  - Tweaked `checkbox` and `settings` colors
+
+#### Added
+
+- All
+  - `commandCenter` and `mergeEditor` colors
+
+* Origin
+  - Color for `meta` scope
+
+---
+
 ### [2.5.5]
 
 #### Modified
