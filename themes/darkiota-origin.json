@@ -1294,7 +1294,10 @@
 			}
 		},
 		{
-			"scope": "text",
+			"scope": [
+				"text",
+				"meta"
+			],
 			"settings": {
 				"foreground": "#AAAAAA"
 			}
