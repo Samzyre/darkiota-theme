@@ -1,5 +1,15 @@
 # Change Log
 
+### [2.5.7]
+
+#### Modified
+
+- All
+  - Tweaked `mergeEditor` colors
+  - Tweaked `editorGroup.emptyBackground` and `panel.background` colors
+
+---
+
 ### [2.5.6]
 
 #### Modified
