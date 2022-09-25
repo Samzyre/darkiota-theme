@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.5.8]
+
+#### Modified
+
+- All
+  - Tweaked `menu` colors for `background`, `border`, `selectionBorder` and `separatorBackground`
+
+---
+
 ### [2.5.7]
 
 #### Modified
