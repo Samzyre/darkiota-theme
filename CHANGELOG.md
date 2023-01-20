@@ -1,5 +1,16 @@
 # Change Log
 
+### [2.5.9]
+
+#### Modified
+
+- All
+  - Tweaked `merge` colors
+  - Tweaked `list` focus outline colors
+  - Tweaked `editor` line highlight color
+
+---
+
 ### [2.5.8]
 
 #### Modified
