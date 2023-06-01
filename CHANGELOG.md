@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.6.2]
+
+#### Modified
+
+- Origin
+  - Semantic `enumMember`, `property` and `variable` colors
+
+---
+
 ### [2.6.1]
 
 #### Added
