@@ -1419,14 +1419,15 @@
 		"builtinType": "#CCAA44",
 		"decorator": "#99889F",
 		"derive": "#55BB77",
-		"enumMember": "#AABBCC",
+		"enumMember": "#BB88BB",
 		"formatSpecifier": "#BBBBBB",
 		"interface": "#88CCCC",
 		"parameter": "#AABBCC",
+		"property": "#AAAAAA",
 		"selfKeyword": "#AA9977",
 		"selfParameter": "#AA9977",
 		"selfTypeKeyword": "#AA9977",
-		"variable": "#AAAAAA",
+		"variable": "#AABBCC",
 		"*.constant": "#AA88CC",
 		"*": {
 			"fontStyle": ""
