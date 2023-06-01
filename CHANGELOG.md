@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.6.1]
+
+#### Added
+
+- All
+  - Semantic `selfParameter` color
+
+---
+
 ### [2.6.0]
 
 #### Added
