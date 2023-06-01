@@ -1088,5 +1088,18 @@
 				"foreground": "#CC9922"
 			}
 		}
-	]
+	],
+	"semanticTokenColors": {
+		"derive": "#CC88AA",
+		"enumMember": "#AA88CC",
+		"formatSpecifier": "#BBBBBB",
+		"interface": "#AABBCC",
+		"parameter": "#BBBB88",
+		"selfKeyword": "#AA9977",
+		"selfTypeKeyword": "#AA9977",
+		"variable": "#AAAAAA",
+		"*": {
+			"fontStyle": ""
+		}
+	}
 }

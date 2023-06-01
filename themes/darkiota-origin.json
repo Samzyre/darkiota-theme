@@ -1414,5 +1414,21 @@
 				"foreground": "#CC9922"
 			}
 		}
-	]
+	],
+	"semanticTokenColors": {
+		"builtinType": "#CCAA44",
+		"decorator": "#99889F",
+		"derive": "#55BB77",
+		"enumMember": "#AABBCC",
+		"formatSpecifier": "#BBBBBB",
+		"interface": "#88CCCC",
+		"parameter": "#AABBCC",
+		"selfKeyword": "#AA9977",
+		"selfTypeKeyword": "#AA9977",
+		"variable": "#AAAAAA",
+		"*.constant": "#AA88CC",
+		"*": {
+			"fontStyle": ""
+		}
+	}
 }
