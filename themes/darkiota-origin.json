@@ -1424,6 +1424,7 @@
 		"interface": "#88CCCC",
 		"parameter": "#AABBCC",
 		"selfKeyword": "#AA9977",
+		"selfParameter": "#AA9977",
 		"selfTypeKeyword": "#AA9977",
 		"variable": "#AAAAAA",
 		"*.constant": "#AA88CC",

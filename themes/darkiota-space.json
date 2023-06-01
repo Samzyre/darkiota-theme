@@ -1096,6 +1096,7 @@
 		"interface": "#AABBCC",
 		"parameter": "#BBBB88",
 		"selfKeyword": "#AA9977",
+		"selfParameter": "#AA9977",
 		"selfTypeKeyword": "#AA9977",
 		"variable": "#AAAAAA",
 		"*": {
