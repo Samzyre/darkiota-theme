@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.6.0]
+
+#### Added
+
+- All
+  - Semantic highlighting colors
+
+---
+
 ### [2.5.9]
 
 #### Modified
