@@ -708,10 +708,7 @@
 	},
 	"tokenColors": [
 		{
-			"scope": [
-				"meta.embedded",
-				"source.groovy.embedded"
-			],
+			"scope": "source.groovy.embedded",
 			"settings": {
 				"foreground": "#CCCCCC"
 			}
@@ -1006,7 +1003,7 @@
 		{
 			"scope": "entity.name.section.markdown",
 			"settings": {
-				"foreground": "#DDDDDD"
+				"foreground": "#CCCCCC"
 			}
 		},
 		{
@@ -1220,6 +1217,15 @@
 			],
 			"settings": {
 				"foreground": "#99889F"
+			}
+		},
+		{
+			"scope": [
+				"meta.paragraph",
+				"meta.embedded"
+			],
+			"settings": {
+				"foreground": "#999FA0"
 			}
 		},
 		{
