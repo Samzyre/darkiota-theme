@@ -1,5 +1,14 @@
 # Change Log
 
+### [2.6.3]
+
+#### Modified
+
+- Origin
+  - `meta.paragraph`, `meta.embedded` and `entity.name.section.markdown` colors
+
+---
+
 ### [2.6.2]
 
 #### Modified
