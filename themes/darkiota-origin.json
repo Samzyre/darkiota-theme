@@ -1553,6 +1553,19 @@
 			"settings": {
 				"foreground": "#CC9922"
 			}
+		},
+		{
+			"scope": [
+				"*",
+				"comment",
+				"markup.quote",
+				"variable.language",
+				"variable.parameter",
+				"storage.type.function"
+			],
+			"settings": {
+				"fontStyle": ""
+			}
 		}
 	],
 	"semanticTokenColors": {
@@ -1570,7 +1583,10 @@
 		"variable": "#AABBCC",
 		"*.constant": "#AA88CC",
 		"*": {
-			"fontStyle": ""
+			"fontStyle": "",
+			"italic": false,
+			"strikethrough": false,
+			"underline": false,
 		}
 	}
 }

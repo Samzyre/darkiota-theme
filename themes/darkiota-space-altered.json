@@ -1157,6 +1157,19 @@
 			"settings": {
 				"foreground": "#CC9922"
 			}
+		},
+		{
+			"scope": [
+				"*",
+				"comment",
+				"markup.quote",
+				"variable.language",
+				"variable.parameter",
+				"storage.type.function"
+			],
+			"settings": {
+				"fontStyle": ""
+			}
 		}
 	],
 	"semanticTokenColors": {
@@ -1164,6 +1177,7 @@
 		"derive": "#CC88AA",
 		"enumMember": "#77AABB",
 		"formatSpecifier": "#BBBBBB",
+		"operator": "#CCAA11",
 		"parameter": "#AAAAAA",
 		"selfKeyword": "#AA9977",
 		"selfParameter": "#AA9977",
@@ -1171,7 +1185,10 @@
 		"variable": "#AAAAAA",
 		"*.constant": "#AA88CC",
 		"*": {
-			"fontStyle": ""
+			"fontStyle": "",
+			"italic": false,
+			"strikethrough": false,
+			"underline": false,
 		}
 	}
 }
