@@ -1,5 +1,19 @@
 # Change Log
 
+### [2.6.4]
+
+#### Modified
+
+- All
+  - Semantic font styles
+
+#### Added
+
+- Space and Space Altered
+  - Semantic `operator` color
+
+---
+
 ### [2.6.3]
 
 #### Modified
