@@ -1237,21 +1237,22 @@
 		}
 	],
 	"semanticTokenColors": {
-		"derive": "#CC88AA",
-		"enumMember": "#AA88CC",
-		"formatSpecifier": "#BBBBBB",
-		"interface": "#AABBCC",
-		"operator": "#BBBBBB",
-		"parameter": "#BBBB88",
-		"selfKeyword": "#AA9977",
-		"selfParameter": "#AA9977",
-		"selfTypeKeyword": "#AA9977",
-		"variable": "#AAAAAA",
 		"*": {
 			"fontStyle": "",
 			"italic": false,
 			"strikethrough": false,
 			"underline": false,
-		}
+		},
+		"derive": "#CC88AA",
+		"enumMember": "#AA88CC",
+		"formatSpecifier": "#BBBBBB",
+		"interface": "#AABBCC",
+		"keyword": "#EE8811",
+		"operator": "#BBBBBB",
+		"parameter": "#BBBB88",
+		"selfKeyword": "#AA9977",
+		"selfParameter": "#AA9977",
+		"selfTypeKeyword": "#AA9977",
+		"variable": "#AAAAAA"
 	}
 }

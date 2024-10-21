@@ -1173,22 +1173,25 @@
 		}
 	],
 	"semanticTokenColors": {
-		"decorator": "#99889F",
-		"derive": "#CC88AA",
-		"enumMember": "#77AABB",
-		"formatSpecifier": "#BBBBBB",
-		"operator": "#CCAA11",
-		"parameter": "#AAAAAA",
-		"selfKeyword": "#AA9977",
-		"selfParameter": "#AA9977",
-		"selfTypeKeyword": "#AA9977",
-		"variable": "#AAAAAA",
-		"*.constant": "#AA88CC",
 		"*": {
 			"fontStyle": "",
 			"italic": false,
 			"strikethrough": false,
 			"underline": false,
-		}
+		},
+		"*.constant": "#AA88CC",
+		"const": "#AA88CC",
+		"constant": "#AA88CC",
+		"decorator": "#99889F",
+		"derive": "#CC88AA",
+		"enumMember": "#77AABB",
+		"formatSpecifier": "#BBBBBB",
+		"keyword": "#EE8811",
+		"operator": "#CCAA11",
+		"parameter": "#AAAAAA",
+		"selfKeyword": "#AA9977",
+		"selfParameter": "#AA9977",
+		"selfTypeKeyword": "#AA9977",
+		"variable": "#AAAAAA"
 	}
 }
