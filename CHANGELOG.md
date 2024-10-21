@@ -1,5 +1,22 @@
 # Change Log
 
+### [2.6.5]
+
+#### Added
+
+- Origin and Space Altered
+  - Semantic `keyword`, `const` and `constant` colors
+
+* Space
+  - Semantic `keyword` color
+
+#### Modified
+
+- All
+  - Reorder semantic scopes
+
+---
+
 ### [2.6.4]
 
 #### Modified
